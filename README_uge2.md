@@ -18,15 +18,16 @@ https://www.spotify.com/dk/signup/
 
 ```Intersection Observer API'et``` til integration af ```Lazy-loading``` af billeder og indhold i takt med at det scrolles ned i viewet.
 
-**Playlist**
+**Playlist:**
 
 Titler på numre må ikke ombryde i to linier. Afkort eventuelle lange titler med ... 
 
-
 **Du skal bruge følgende i løsningen:**
+
 fetch-wrapper (Jeres eget ```npm``` modul)
 
 **Ekstra opgave** (free acount access?)
+
 Udvikle søgefunktionalitet med resultatvisning i viewet "songs".
 
 ## Husk den gode arbejdsgang
