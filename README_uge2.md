@@ -22,9 +22,10 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
 Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller ingende til at afkorte eventuelle lange titler med ex. ... (tre punktummer) for at indikere at titlen ikke vises i sin fulde længde.
 
-## Ekstra opgave
+## Feature opgave 
 **Søgefunktionalitet:**
 
+*Påbegynd først denne opgave når **alle** tidligere opgaver er løst!*
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet *"Writing a Query - guidelines"*
 
 ## Du skal bruge følgende i løsningen:
