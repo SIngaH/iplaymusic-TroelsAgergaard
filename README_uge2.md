@@ -11,6 +11,7 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 **Opret en gratis konto:**
 https://www.spotify.com/dk/signup/
 
+---
 
 ## Særlige krav til udvalgte views
 
@@ -34,4 +35,8 @@ Udvikle søgefunktionaliteten. Resultatvisning i viewet "songs".
 1. Stage løbende
 2. Commit hver gang en ændring virker
 3. Push dagligt
+
+---
+
+## Tidsramme
 
