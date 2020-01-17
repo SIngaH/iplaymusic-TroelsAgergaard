@@ -26,6 +26,7 @@ Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller i
 **Søgefunktionalitet:**
 
 *Påbegynd først denne opgave når **alle** tidligere opgaver er løst!*
+
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet *"Writing a Query - guidelines"*
 
 ## Du skal bruge følgende i løsningen:
