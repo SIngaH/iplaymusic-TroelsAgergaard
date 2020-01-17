@@ -8,7 +8,7 @@ Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "en
 
 Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
-**Du kan oprette en gratis konto her:**
+**Opret en gratis konto:**
 https://www.spotify.com/dk/signup/
 
 
