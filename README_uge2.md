@@ -4,7 +4,7 @@ Anden del af projektet handler om få præsenteret rigtigt indhold i applikation
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iplaymusic-TroelsAgergaard/blob/master/SpotifyAPI.png "Spotify API")
 
-Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra har du adgang til Spotify Web API som retunerer JSON metadata. Benyt ```fetch``` til at hente data om albums, categorier, numre etc. fra Spotify data katalog.
+Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra kan du finde de nødvendige ```endpoint``` referencer. Spotify Web API endpoints retunerer data i JSON format. Benyt ```fetch``` til at hente data om albums, categorier, numre etc. fra Spotify data katalog.
 
 Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
@@ -27,8 +27,9 @@ Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller i
 fetch-wrapper (Jeres eget ```npm``` modul)
 
 ## Ekstra opgave (free acount access?)
-
-Udvikle søgefunktionaliteten. Resultatvisning i viewet "songs".
+**Søgefunktionalitet:**
+forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs".
+**OBS Læs:** ***Writing a Query - Guidelines***
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
