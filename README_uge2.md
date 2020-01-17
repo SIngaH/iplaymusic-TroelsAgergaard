@@ -12,7 +12,7 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 https://www.spotify.com/dk/signup/
 
 
-## Krav til de forskellige views
+## Særlige krav til udvalgte views
 
 **Featured:**
 
@@ -23,7 +23,13 @@ https://www.spotify.com/dk/signup/
 Titler på numre må ikke ombryde i to linier. Afkort eventuelle lange titler med ... 
 
 
-## Husk den gode arbejdsgang.
+**Du skal bruge følgende i løsningen:**
+fetch-wrapper (Jeres eget ```npm``` modul)
+
+**Ekstra opgave** (free acount access?)
+Udvikle søgefunktionalitet med resultatvisning i viewet "songs".
+
+## Husk den gode arbejdsgang
 1. Stage løbende
 2. Commit hver gang en ændring virker
 3. Push dagligt
