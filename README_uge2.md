@@ -17,7 +17,6 @@ https://www.spotify.com/dk/signup/
 https://developer.spotify.com/
 
 **Featured:**
-
 ```Intersection Observer API'et``` til integration af ```Lazyload```
 
 **Playlist**
