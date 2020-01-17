@@ -4,19 +4,19 @@ Anden del af projektet handler om få præsenteret rigtigt indhold i applikation
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iplaymusic-TroelsAgergaard/blob/master/SpotifyAPI.png "Spotify API")
 
-Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra har du adgang til Spotify Web API som retunerer JSON metadata. Benyt ```fetch``` til at hente data om albums, categorier, numre fra Spotify data katalog.
+Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra har du adgang til Spotify Web API som retunerer JSON metadata. Benyt ```fetch``` til at hente data om albums, categorier, numre etc. fra Spotify data katalog.
 
-Det kræver en registerert bruger at få adgang til Web API'et.
+Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 **Du kan oprette en gratis konto her:**
 
 https://www.spotify.com/dk/signup/
 
 
-## ... 
+## Krav til de forskellige views
 
 **Featured:**
 
-```Intersection Observer API'et``` til integration af ```Lazyload```
+```Intersection Observer API'et``` til integration af ```Lazy-loading``` af billeder og indhold i takt med at det scrolles ned i viewet.
 
 **Playlist**
 
