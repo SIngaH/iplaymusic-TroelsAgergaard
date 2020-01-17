@@ -22,7 +22,7 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
 Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller ingende til at afkorte eventuelle lange titler med ex. ... (tre punktummer) for at indikere at titlen ikke vises i sin fulde længde.
 
-## Ekstra opgave (free acount access?)
+## Ekstra opgave
 **Søgefunktionalitet:**
 
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet *"Writing a Query - guidelines"*
@@ -39,4 +39,4 @@ fetch-wrapper (Jeres eget ```npm``` modul)
 ---
 
 ## Tidsramme
-
+Der er afsat 1 arbejds uge til opgaven, dvs aflevering på fredag kl 13.30 (den sidste commit til github inden fredag kl 13.30, bliver afleveringen).
