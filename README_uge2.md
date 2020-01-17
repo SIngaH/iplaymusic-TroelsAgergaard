@@ -28,7 +28,7 @@ fetch-wrapper (Jeres eget ```npm``` modul)
 
 ## Ekstra opgave (free acount access?)
 
-Udvikle søgefunktionalitet med resultatvisning i viewet "songs".
+Udvikle søgefunktionaliteten. Resultatvisning i viewet "songs".
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
