@@ -15,7 +15,7 @@ https://developer.spotify.com/
 **Featured:**
 ```Intersection Observer API'et``` til integration af ```Lazyload```
 
-***Playlist***
+**Playlist**
 Titler på numre må ikke ombryde i to linier. Afkort eventuelle lange titler med ... 
 
 
