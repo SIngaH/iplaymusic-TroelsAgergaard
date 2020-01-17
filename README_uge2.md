@@ -29,10 +29,8 @@ fetch-wrapper (Jeres eget ```npm``` modul)
 ## Ekstra opgave (free acount access?)
 **Søgefunktionalitet:**
 
-forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs".
+forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet ***Writing a Query - guidelines***
 
-**OBS Læs:** 
-***Writing a Query - Guidelines***
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
