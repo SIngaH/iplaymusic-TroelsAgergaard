@@ -7,8 +7,8 @@ Anden del af projektet handler om få præsenteret rigtigt indhold i applikation
 Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra har du adgang til Spotify Web API som retunerer JSON metadata. Benyt ```fetch``` til at hente data om albums, categorier, numre etc. fra Spotify data katalog.
 
 Det kræver en registerert Spotify bruger at få adgang til Web API'et.
-**Du kan oprette en gratis konto her:**
 
+**Du kan oprette en gratis konto her:**
 https://www.spotify.com/dk/signup/
 
 
