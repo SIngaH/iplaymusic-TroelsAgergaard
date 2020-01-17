@@ -26,7 +26,7 @@ Titler på numre må ikke ombryde i to linier. Afkort eventuelle lange titler me
 
 fetch-wrapper (Jeres eget ```npm``` modul)
 
-## Ekstra opgave** (free acount access?)
+## Ekstra opgave (free acount access?)
 
 Udvikle søgefunktionalitet med resultatvisning i viewet "songs".
 
