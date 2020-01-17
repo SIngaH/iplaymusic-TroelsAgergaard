@@ -22,15 +22,14 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
 Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller ingende til at afkorte eventuelle lange titler med ex. ... (tre punktummer) for at indikere at titlen ikke vises i sin fulde længde.
 
-## Du skal bruge følgende i løsningen:
-
-fetch-wrapper (Jeres eget ```npm``` modul)
-
 ## Ekstra opgave (free acount access?)
 **Søgefunktionalitet:**
 
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs". Læs de guidelines som er beskrevet i afsnittet *"Writing a Query - guidelines"*
 
+## Du skal bruge følgende i løsningen:
+
+fetch-wrapper (Jeres eget ```npm``` modul)
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
