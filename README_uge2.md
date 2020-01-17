@@ -31,7 +31,8 @@ fetch-wrapper (Jeres eget ```npm``` modul)
 
 forespørg data fra search endpointet vedrørende artister, alubms, numre eller playlists som matcher en ```keyword string```. Præsenter resultaterne på en smart overskugelig måde i viewet "songs".
 
-**OBS Læs:** ***Writing a Query - Guidelines***
+**OBS Læs:** 
+***Writing a Query - Guidelines***
 
 ## Husk den gode arbejdsgang
 1. Stage løbende
