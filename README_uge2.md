@@ -4,19 +4,18 @@ Anden del af projektet handler om få præsenteret rigtigt indhold i applikation
 
 ![alt text](https://github.com/rts-cmk-wuhf02/iplaymusic-TroelsAgergaard/blob/master/SpotifyAPI.png "Spotify API")
 
-iPlayMusic skal benytte ```fetch``` til at hente alle nødvendige data som fx. titler på album og numre, cover og artist billeder etc. fra Sporifys API. 
+Alt data i iPlayMusic skal komme fra musik tjenesten Spotify. Spotify har et "entry point" for udviklere som du finder på: https://developer.spotify.com/ Herfra har du adgang til Spotify Web API som retunerer JSON metadata. Benyt ```fetch``` til at hente data om albums, categorier, numre fra Spotify data katalog.
 
-Det kræver en registerert bruger at arbejde med Spotify's ```API```.
-
+Det kræver en registerert bruger at få adgang til Web API'et.
 **Du kan oprette en gratis konto her:**
 
 https://www.spotify.com/dk/signup/
 
-**Sporify developer entry point:**
 
-https://developer.spotify.com/
+## ... 
 
 **Featured:**
+
 ```Intersection Observer API'et``` til integration af ```Lazyload```
 
 **Playlist**
@@ -24,7 +23,7 @@ https://developer.spotify.com/
 Titler på numre må ikke ombryde i to linier. Afkort eventuelle lange titler med ... 
 
 
-## Husk den gode arbejdsgang1.
+## Husk den gode arbejdsgang.
 1. Stage løbende
 2. Commit hver gang en ændring virker
 3. Push dagligt
