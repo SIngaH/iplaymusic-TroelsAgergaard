@@ -6,7 +6,7 @@ Anden del af projektet handler om få præsenteret rigtige data i iPlayMusic.
 
 Disse data skal hentes fra musik tjenesten Spotify. 
 
-Spotify har et "entry point" for udviklere som kan findes på: https://developer.spotify.com/ Herfra kan alle nødvendige ```endpoint``` referencer findes e.g. albums, categorier, numre etc. Web API'et returneres alle ```response``` data som ```JSON``` objekter. Benyt ```fetch``` til at forespørge data.
+Spotify har et "entry point" for udviklere som kan findes på: https://developer.spotify.com/ Herfra kan alle nødvendige ```endpoint``` referencer findes e.g. albums, categorier, numre etc. Web API'et returneres alle ```response``` data som ```JSON objekter```. Benyt ```fetch``` til at forespørge data.
 
 Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
