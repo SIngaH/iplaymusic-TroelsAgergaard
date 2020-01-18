@@ -22,7 +22,7 @@ Det kræver en registerert Spotify bruger at få adgang til Web API'et.
 
 **Playlist:**
 
-Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller ingende til at afkorte eventuelle lange titler med ex. ... (tre punktummer) for at indikere at titlen ikke vises i sin fulde længde.
+Titler på numre må ikke ombryde i to linier. Benyt ```text overflow``` eller lingende til at afkorte eventuelle lange titler med ex. ... (tre punktummer) for at indikere at titlen ikke vises i sin fulde længde.
 
 ## Feature opgave 
 **Søgefunktionalitet:**
